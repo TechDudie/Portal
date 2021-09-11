@@ -8,7 +8,7 @@ import wolfram
 import github
 import string
 import sys
-HOST = "chat.freenode.net"
+HOST = "irc.libera.chat"
 PORT = 6667
 NICK = "Portal"
 PASSWORD = os.getenv("PASSWORD")
